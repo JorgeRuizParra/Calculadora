@@ -10,6 +10,7 @@ function resta()
 
 function multiplicar()
 <<<<<<< HEAD
+<<<<<<< HEAD
     print(var1*var2)
 =======
     print(var1*var2)
@@ -20,3 +21,6 @@ function dividir()
 =======
     print(hola)
 >>>>>>> feature2
+=======
+    print(var1*var2)
+>>>>>>> b759022486a8c774440411d56aabd56fddb4e95f
