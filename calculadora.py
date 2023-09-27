@@ -3,6 +3,7 @@ var2 = 2
 
 function sumar() 
     print(var1+var2)
+<<<<<<< HEAD
 
 function resta()
     print(var1-var2)
@@ -16,3 +17,6 @@ function multiplicar()
 function dividir()
     print(var1/var2)
 >>>>>>> feature1
+=======
+    print(hola)
+>>>>>>> feature2
